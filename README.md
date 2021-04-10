@@ -43,7 +43,6 @@ publishes sample data (a block group typically has a population of 600 to 3,000 
 * Perform Linear Regression on training data.
 * Predict output for test dataset using the fitted model.
 * Print root mean squared error (RMSE) from Linear Regression.
-            [ HINT: Import mean_squared_error from sklearn.metrics ]
 
 7. Bonus exercise: Perform Linear Regression with one independent variable :
 * Extract just the median_income column from the independent variables (from X_train and X_test).
